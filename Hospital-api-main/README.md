@@ -17,8 +17,7 @@ Start the server
 ```
 
 ## Documentation
-
-Root Hosted Link - 
+Hosted Link - https://github.com/Garimellakshmisravani/Hospital_API
 Routes :
 
     a. /doctors/register - Registers a new Doctor.
@@ -46,6 +45,6 @@ Folder Structure
     e. config - Contains all the config files.
 ## Authors
 
-- [@Lakshmi Sravani]()
+- [@Lakshmi Sravani](https://github.com/Garimellakshmisravani/Hospital_API)
 
   
