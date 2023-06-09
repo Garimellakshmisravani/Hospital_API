@@ -3,23 +3,7 @@
 
 An API created using NodeJS for the doctors of a hospital to cater to the need of the healthcare system during Covid-19.
 
-
-
-
 ## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/manisha2607/Hospital-api
-```
-
-Go to the project directory
-
-```bash
-  cd Hospital-API-For-Covid-19
-```
-
 Install dependencies
 
 ```bash
@@ -32,10 +16,9 @@ Start the server
   npm start
 ```
 
-  
 ## Documentation
 
-Root Hosted Link - https://github.com/manisha2607/Hospital-api
+Root Hosted Link - 
 Routes :
 
     a. /doctors/register - Registers a new Doctor.
@@ -63,6 +46,6 @@ Folder Structure
     e. config - Contains all the config files.
 ## Authors
 
-- [@manisha](https://github.com/manisha2607/Hospital-api)
+- [@Lakshmi Sravani]()
 
   
